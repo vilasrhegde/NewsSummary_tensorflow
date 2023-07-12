@@ -16,3 +16,5 @@
 6. To do sentiment analysis we need convert text into blob
 7. Then we get polarity from that analysis
 8. That's it. Whole thing is done by the package itself.
+
+![image](https://github.com/vilasrhegde/NewsSummary_tensorflow/assets/85540091/9c16f2e6-de25-45ac-b090-2e20c31f73cc)
